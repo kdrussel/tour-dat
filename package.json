@@ -1,6 +1,9 @@
 {
-  "name": "starter-node-angular",
+  "name": "tour-dat-kdr",
+  "version": "1.0.0",
+  "description": "new orleans tourism app",
   "main": "server.js",
+  "author": "kerry",
   "dependencies": {
     "express" : "~4.5.1",
 	"mongoose" : "~3.8.0",
